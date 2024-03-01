@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1 align="center">Olá, eu sou a Thais Gai<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+ 
 
-<!--
-**ThaisGai/ThaisGai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔍 I’m currently search for my first oportunity on web development.
+- 🌱 I’m currently learning about NodeJS.
+- 💬: Ask me about HTML5, CSS3, Javascript, Github and VSCode.
+- 😄 Pronouns: "She/her"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+  Get in Touch! 📬
+
+  <div>
+    <a href="https://www.linkedin.com/in/thaisgai" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-  the-badge&logo=linkedin&logoColor=white" target="_blank" height="28em"></a>
+    <a href = "mailto:thais.gabriel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  </div>
+  
+##
+  <div>
+    <a href="https://github.com/ThaisGai">
+    <img height=180em src="https://github-readme-stats.vercel.app/api?username=thaisgai&rank_icon=github&theme=tokyonight">
+    <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisgai&theme=tokyonight">
+  </div>
+      
+##
+
+
+
