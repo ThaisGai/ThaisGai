@@ -3,7 +3,7 @@
 
 
 - 🔍 I’m currently search for my first oportunity on web development.
-- 🌱 I’m currently learning about NodeJS.
+- 🌱 I’m currently learning about Typescript.
 - 💬: Ask me about HTML5, CSS3, Javascript, Github and VSCode.
 - 😄 Pronouns: "She/her"
 
